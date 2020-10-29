@@ -3,31 +3,23 @@ Dyspraxia Assessment
 -------------------------------------------------------------------------------------------
 First stage - Preliminary Dyspraxia Assessment 
 
-- In the first stage, one or one’s parents will have to work with the expert psychologist 
-  to draft a developmental history to record whether symptoms of the person being accessed 
-  are consistent with Dyspraxia. 
-- The developmental history will then be refined during the structured interview based on 
-  the Diagnostic and Statiscal Manual of Mental Disorders Fifth Edition (DSM-5). 
-  A test known as Detailed Assessment of Speed of Handwriting (DASH-17) will also be 
-  carried out which tests the rate and pace of handwriting, the size and formation of 
+- In the first stage, one or one’s parents will have to work with the expert psychologist to draft a developmental history to record whether symptoms of the person being   
+  accessed are consistent with Dyspraxia. 
+- The developmental history will then be refined during the structured interview based on the Diagnostic and Statiscal Manual of Mental Disorders Fifth Edition (DSM-5). 
+  A test known as Detailed Assessment of Speed of Handwriting (DASH-17) will also be carried out which tests the rate and pace of handwriting, the size and formation of 
   letters, legibility of handwriting (the script written on line) and overall coherence 
   of writing.
 
 
 Second stage - Face-to-Face Element of Dyspraxia Diagnosis 
 
-- The Beery-Buktenica Developmental Test of Visual-Motor Coordination (Berry VMI) 
-  is used in this stage to identify visual motor problems associated with Dyspraxia 
+- The Beery-Buktenica Developmental Test of Visual-Motor Coordination (Berry VMI) is used in this stage to identify visual motor problems associated with Dyspraxia 
   and tests how well the person can integrate motor and visual skills. 
-- Typing tests will also be included as some people with Dyspraxia will find typing 
-  using a computer keyboard is challenging. DASH-17 is used again to identify which area 
-  the person needs most support on handwriting difficulties and agree on an action plan 
-  for improvement. 
-- Movement Assessment Battery for Children Second Edition (Movement ABC-2) is used to 
-  assess a child's movement while at home which includes an examination of the amount 
-  of time taken to finish the activities that require physical movement and how this 
-  interacts with the child’s confidence, behaviour, psychological and physical well-being.
-  People with Dyspraxia often have difficulties with working memory and processing 
-  information. Thus, the Wechsler Intelligence Scale for children or adults is used to 
+- Typing tests will also be included as some people with Dyspraxia will find typing using a computer keyboard is challenging. DASH-17 is used again to identify which area 
+  the person needs most support on handwriting difficulties and agree on an action plan for improvement. 
+- Movement Assessment Battery for Children Second Edition (Movement ABC-2) is used to assess a child's movement while at home which includes an examination of the amount 
+  of time taken to finish the activities that require physical movement and how this interacts with the child’s confidence, behaviour, psychological and physical well-being.
+  People with Dyspraxia often have difficulties with working memory and processing information. Thus, the Wechsler Intelligence Scale for children or adults is used to 
   evaluate both working memory and processing speed.
-- Sensory Profile 2 also included as it is an assessment that evaluates a person’s sensory processing patterns as this might impact on functioning effectively at work, at home or in education.
+- Sensory Profile 2 also included as it is an assessment that evaluates a person’s sensory processing patterns as this might impact on functioning effectively at work, at 
+  home or in education.
