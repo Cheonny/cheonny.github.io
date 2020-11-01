@@ -1,0 +1,8 @@
+In order to exit the program
+Please type by following the steps below.
+
+STEP 1 : 'more'
+STEP 2 : 'more and more'
+STEP 3 : 'more more more'
+STEP 4 : 'like'
+STEP 5 : 'likey'
